@@ -2,7 +2,7 @@ import os
 import sys
 import google.generativeai as genai
 
-API_KEY = "AIzaSyDSlz3awT3TBjH_zWrV0jBqo1nh3YFWzTQ"
+API_KEY = "ENTER YOUR API KEY"
 
 def generate_response(prompt):
     try:
